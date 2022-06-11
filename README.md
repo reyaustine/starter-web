@@ -8,6 +8,10 @@ Sasdagfasd
 
 ##Purpose
 
+Wa ra gud na unsa gud ka
+
 ##Deployment
+
+This is simple balik2 lang ta ani
 
 ##HOw to Contribute
