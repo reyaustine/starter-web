@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rey Austine Echavez reyaustine123@gmail.com
 
 # THANKS
 
