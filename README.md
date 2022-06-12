@@ -16,7 +16,7 @@ This is simple balik2 lang ta ani
 
 ##HOw to Contribute
 
-samoka
+Please fork this repo and then issue Pul REquest for review
 
 ##Copyright
 2022 Git.Training.
