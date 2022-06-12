@@ -15,3 +15,5 @@ Wa ra gud na unsa gud ka
 This is simple balik2 lang ta ani
 
 ##HOw to Contribute
+
+samoka
