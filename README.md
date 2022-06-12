@@ -2,6 +2,8 @@
 
 This is simple website project
 
+Adding a line for rebasing example
+
 ## Introduction
 
 Sasdagfasd
