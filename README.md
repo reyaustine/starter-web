@@ -6,7 +6,7 @@ Adding a line for rebasing example, tne more changes for myfeature branch
 
 ## Introduction
 
-Sasdagfasd
+Modify for Stash sample
 
 ##Purpose
 
